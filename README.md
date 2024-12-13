@@ -1,27 +1,29 @@
-### Melodify: A Python Music Player
+# Melodify: A Python Music Player
 
 Welcome to Melodify!
 
-Melodify is a user-friendly music player application built using Python. It leverages the power of a circular doubly linked list data structure to efficiently manage and play your favorite music collection.
+Project description:  
+Melodify is a desktop music player application developed using Python and the Qt framework via PySide6. It features a clean and intuitive user interface and employs a circular doubly linked list for efficient playlist management and playback.
 
-Project Description:
-
-Objectives:
+Objectives:     
 Develop a robust and user-friendly music player application.
-Implement key features like adding, removing, shuffling songs, and playback controls (play, pause, skip).
+Implement key features like adding, removing, and playback controls (play, pause, skip).
 Provide a seamless and enjoyable music listening experience.
-Language: Python (version 3.8 or above)
-Data Structure: Circular doubly linked list for efficient playlist management.
-Features:
 
-Playback Controls:
-Play: Starts playback of the current song.
-Pause: Temporarily stops playback, allowing you to resume later.
-Next: Advances to the next song in the playlist.
-Prev: Rewinds to the previous song.
-Song Management:
-Add Song: Inserts a new song into the playlist.
-Remove Song (planned for future versions): Allows you to remove songs from the playlist.
+Language: Python (version 3.8 or above)  
+Data Structure: Circular doubly linked list for efficient playlist management.
+
+### Features:  
+ 
+**Play**: Starts playback of the current song.  
+
+**Pause**: Temporarily stops playback, allowing you to resume later.  
+
+**Next**: Advances to the next song in the playlist.  
+
+**Prev**: Rewinds to the previous song.  
+
+**Select song directory**: Adds all songs from a specified directory to the playlist.
 
 ## Installation
 
