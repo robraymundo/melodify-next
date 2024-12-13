@@ -34,6 +34,8 @@ class Main(QMainWindow):
         self.ui.file_button.clicked.connect(self.open_song_directory)
         self.player.positionChanged.connect(self.update_progress_bar)
 
+        self.update_buttons() # initially disables the buttons until a valid directory is selected
+
     def play(self):
         if self.is_playing:
             self.player.pause()
@@ -80,8 +82,7 @@ class Main(QMainWindow):
 
         self.song_tracker.add_song_directory(directory_path)
 
-        # resets the music player when a new directory is selected
-        self.reset_music_player()
+        self.reset_music_player()   # resets the music player when a new directory is selected
 
         if self.song_tracker.head is None:
             self.ui.title_label.setText("No song found in the directory")
