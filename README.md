@@ -1,4 +1,4 @@
-Melodify: A Python Music Player
+### Melodify: A Python Music Player
 
 Welcome to Melodify!
 
@@ -29,6 +29,7 @@ To run this project, you'll need to install the required dependencies. You can d
 
 ```bash/terminal
 pip install -r requirements.txt
+```
 
 For future improvements or suggestions, please feel free to contact us at:
 
