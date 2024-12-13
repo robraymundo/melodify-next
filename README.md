@@ -15,6 +15,7 @@ Data Structure: Circular doubly linked list for efficient playlist management.
 
 ### Screenshot
 ![graphics/screenshot.png](graphics/screenshot.png)
+![graphics/screenshot2.png](graphics/screenshot2.png)
 
 ### Features:  
  
