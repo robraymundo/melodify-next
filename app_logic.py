@@ -14,9 +14,8 @@ class SongTracker:
         self.current_song = None
 
         # initializes the songs available in the music folder
-        self.add_song_directory()
 
-    def add_song_directory(self, music_folder='music_folder'):
+    def add_song_directory(self, music_folder):
         self.clear() # clears the songs from the previous directory
 
         for file_name in os.listdir(music_folder):
