@@ -1,4 +1,4 @@
-# Melodify: A Python Music Player
+# Melodify: Next
 
 Welcome to Melodify!
 
