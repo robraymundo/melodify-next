@@ -13,7 +13,7 @@ Provide a seamless and enjoyable music listening experience.
 Language: Python (version 3.8 or above)  
 Data Structure: Circular doubly linked list for efficient playlist management.
 
-### Screenshot
+### Screenshots
 ![graphics/screenshot.png](graphics/screenshot.png)
 ![graphics/screenshot2.png](graphics/screenshot2.png)
 
