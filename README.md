@@ -13,6 +13,9 @@ Provide a seamless and enjoyable music listening experience.
 Language: Python (version 3.8 or above)  
 Data Structure: Circular doubly linked list for efficient playlist management.
 
+### Screenshot
+![graphics/screenshot.png](graphics/screenshot.png)
+
 ### Features:  
  
 **Play**: Starts playback of the current song.  
@@ -24,8 +27,6 @@ Data Structure: Circular doubly linked list for efficient playlist management.
 **Prev**: Rewinds to the previous song.  
 
 **Select song directory**: Adds all songs from a specified directory to the playlist.
-
-![graphics/screenshot.png](graphics/screenshot.png)
 
 ## Installation
 
