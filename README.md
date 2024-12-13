@@ -25,6 +25,8 @@ Data Structure: Circular doubly linked list for efficient playlist management.
 
 **Select song directory**: Adds all songs from a specified directory to the playlist.
 
+![graphics/screenshot.png](graphics/screenshot.png)
+
 ## Installation
 
 To run this project, you'll need to install the required dependencies. You can do this using pip:
